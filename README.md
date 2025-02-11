@@ -53,3 +53,6 @@ python excel_brief_mpi.py data.xlsx
 ```
 
 The script will prompt you to save the output file as an Excel file.
+
+## References
+This script was made referring to the BRIEF-MPI as described in https://doi.org/10.2147/CIA.S355801, with the tool available at https://multiplat-age.it/index.php/en/tools being used as a model for the calculation.
